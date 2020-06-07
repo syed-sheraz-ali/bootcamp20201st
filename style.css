@@ -1,0 +1,11 @@
+*{
+    background-image: url(tenor.gif);
+    background-repeat: initial;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 50px;
+}
